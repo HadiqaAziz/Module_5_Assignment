@@ -1,24 +1,42 @@
-# Module_5_Assignment
-This repository contains files of module 5 challenge
+# Daily Planner
 
-## Acceptance Criteria
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with time blocks for standard business hours of 9am to 5pm
-WHEN I view the time blocks for that day
-THEN each time block is color-coded to indicate whether it is in the past, present, or future
-WHEN I click into a time block
-THEN I can enter an event
-WHEN I click the save button for that time block
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
+This repository contains the files for a daily planner application designed to help you create and manage your schedule.
 
-Screenshot of the deployed website
-<img width="945" alt="image" src="https://github.com/HadiqaAziz/Module_5_Assignment/assets/2726317/8307044c-5e63-485f-8af4-b027681c208b">
+## Features
 
+- **Current Day Display**: The current day is shown at the top of the calendar.
+- **Time Blocks**: The planner includes time blocks for standard business hours from 9 AM to 5 PM.
+- **Color-Coded Time Blocks**: Time blocks are color-coded to indicate whether they are in the past, present, or future.
+- **Event Entry**: Click on a time block to enter an event.
+- **Local Storage**: Events are saved to local storage when you click the save button, ensuring they persist even after refreshing the page.
 
+## How to Use the Planner
 
-[link to the deployed website](https://hadiqaaziz.github.io/Module_5_Assignment/)
+1. **Open the Planner**:
+   Open the daily planner application in your browser.
+
+2. **View the Current Day**:
+   The current date will be displayed at the top of the calendar.
+
+3. **Scroll Through Time Blocks**:
+   Scroll down to view time blocks for each hour from 9 AM to 5 PM.
+
+4. **Enter Events**:
+   Click on a time block to enter an event. After typing in your event details, click the save button to store the event.
+
+5. **Save and Persist Events**:
+   Events are saved to local storage. When you refresh the page, your saved events will remain intact.
+
+## Screenshot
+
+Here is a screenshot of the deployed website:
+
+![Daily Planner Screenshot](https://github.com/HadiqaAziz/Module_5_Assignment/assets/2726317/8307044c-5e63-485f-8af4-b027681c208b)
+
+## Deployed Website
+
+You can view the live version of the daily planner application at the following link:
+
+[Daily Planner Application](https://hadiqaaziz.github.io/Module_5_Assignment/)
+
+This guide should help you get started with using the daily planner application. Enjoy organizing your schedule!
