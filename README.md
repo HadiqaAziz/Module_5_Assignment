@@ -31,7 +31,7 @@ This repository contains the files for a daily planner application designed to h
 
 Here is a screenshot of the deployed website:
 
-![Daily Planner Screenshot](https://github.com/HadiqaAziz/Module_5_Assignment/assets/2726317/8307044c-5e63-485f-8af4-b027681c208b)
+![Daily Planner Screenshot](https://hadiqaaziz.github.io/Work-Day-Scheduler-using-jQuery/)
 
 ## Deployed Website
 
