@@ -31,12 +31,12 @@ This repository contains the files for a daily planner application designed to h
 
 Here is a screenshot of the deployed website:
 
-![Daily Planner Screenshot](https://hadiqaaziz.github.io/Work-Day-Scheduler-using-jQuery/)
+![Daily Planner Screenshot](https://private-user-images.githubusercontent.com/2726317/254738989-8307044c-5e63-485f-8af4-b027681c208b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYxNjEyNTIsIm5iZiI6MTcyNjE2MDk1MiwicGF0aCI6Ii8yNzI2MzE3LzI1NDczODk4OS04MzA3MDQ0Yy01ZTYzLTQ4NWYtOGFmNC1iMDI3NjgxYzIwOGIucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDkxMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA5MTJUMTcwOTEyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YjlhMmVmYmI1N2MwMWY5OTI0ZTRlODc0NjY4ZDQ3NmQ0NzhmZDI4MTZmZDI4NDM4MjA3MTUxNTg5MzVhZDIzOSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.eGiq2cjvTyawgGNZd2DRiIsvPf-7M8X_kOifaRTS8Xs)
 
 ## Deployed Website
 
 You can view the live version of the daily planner application at the following link:
 
-[Daily Planner Application](https://hadiqaaziz.github.io/Module_5_Assignment/)
+[Daily Planner Application](https://hadiqaaziz.github.io/Work-Day-Scheduler-using-jQuery/)
 
 This guide should help you get started with using the daily planner application. Enjoy organizing your schedule!
